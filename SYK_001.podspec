@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SYK_001"
-  s.version      = "1"
+  s.version      = "2"
   s.summary      = "SYK_001."
 
   # This description is used to generate tags and improve search results.
